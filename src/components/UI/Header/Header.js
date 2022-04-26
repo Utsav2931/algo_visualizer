@@ -170,7 +170,7 @@ const Header = (props) => {
             </Button>
           </Grid>
           <a
-            href="#"
+            href="https://github.com/Utsav2931/algo_visualizer"
             target="_blank"
           >
             <GitHubIcon fontSize="large" style={{ color: "white" }} />
